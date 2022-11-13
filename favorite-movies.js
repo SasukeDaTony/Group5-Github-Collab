@@ -8,5 +8,5 @@ const favoriteMovies = {
     Name: "Kat Pelle",
     favMovies: ["Walk To Remember", "Lion King", "Black Panther"],
   },
-  MemberThree: { Name: "Rodica Chavez", favMovies: [] },
+  MemberThree: { Name: "Rodica Chavez", favMovies: ["A Room With A View", "Transformers", "Avatar"] },
 };
